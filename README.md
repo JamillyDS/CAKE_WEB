@@ -5,6 +5,6 @@
 #
 
 <img src="./img/bolo.png" style="width:500px">
-<a href="#">Link do projeto: Não é responsivo.</a>
+<a href="https://jamillyds.github.io/CAKE_WEB/">Link do projeto: Não é responsivo. 🎂</a>
 
 #
