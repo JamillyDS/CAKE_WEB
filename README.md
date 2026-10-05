@@ -4,7 +4,7 @@
 
 #
 
-<img src="./img/bolo.png">
+<img src="./img/bolo.png" style="width:500px">
 <a href="#">Link do projeto: Não é responsivo.</a>
 
 #
